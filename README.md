@@ -1,0 +1,132 @@
+# < Hey, I'm AtilA 👋 />
+
+```python
+class Ata:
+    def __init__(self):
+        self.role = "Machine Learning Developer"
+        self.language = "Python"
+        self.learning = ["Deep Learning", "Neural Networks", "AI Systems"]
+        self.frameworks = ["FastAPI", "Flet"]
+        self.interests = ["ML", "Backend", "Automation", "Data", "Open Source"]
+
+    def life_philosophy(self):
+        return "Building projects because I genuinely love creating things."
+```
+
+---
+
+## 🧠 About Me
+
+- Classical Machine Learning developer moving deeper into Deep Learning
+- Python lover 🐍
+- Building APIs with FastAPI
+- Creating desktop/mobile apps with Flet
+- Statistics student with strong interest in AI
+
+
+I don't build projects just to fill a resume.
+
+Most of the things here exist because I was curious about something  
+and couldn't stop myself from building it.
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,sqlite,git,linux,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atila-Pasha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atila-Pasha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Atila-Pasha&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Atila-Pasha/Atila-Pasha/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Deep Learning
+- Computer Vision
+- Model Deployment
+- Building useful AI tools
+- Writing cleaner Python code every day
+
+---
+
+## 📚 A Few Things I Like
+
+- Dostoevsky
+- Statistics
+- Boxing
+- Open Source
+- Dark terminals at 2AM
+
+---
+
+## ☕ Philosophy
+
+> "Code should feel alive.  
+> Not just functional."
+
+---
+
+## 🌌 Fun Fact
+
+```bash
+while(alive){
+    eat();
+    code();
+    learn();
+    repeat();
+}
+```
+
+---
+
+## 🛰️ Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Atila-Pasha">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Atila-Pasha&color=blueviolet&style=flat-square"/>
+
+</p>
