@@ -35,7 +35,7 @@ and couldn't stop myself from building it.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,sqlite,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,sqlite,git,linux,vscode" />
 
 </p>
 
@@ -80,16 +80,6 @@ and couldn't stop myself from building it.
 - Model Deployment
 - Building useful AI tools
 - Writing cleaner Python code every day
-
----
-
-## 📚 A Few Things I Like
-
-- Dostoevsky
-- Statistics
-- Boxing
-- Open Source
-- Dark terminals at 2AM
 
 ---
 
