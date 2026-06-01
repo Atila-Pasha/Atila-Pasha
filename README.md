@@ -1,4 +1,4 @@
-# < Hey, I'm AtilA 👋 />
+# Hey, I'm AtA 👋
 
 ```python
 class Ata:
@@ -63,15 +63,6 @@ and couldn't stop myself from building it.
 
 ---
 
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Atila-Pasha/Atila-Pasha/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
 
 ## 🚀 Current Focus
 
@@ -103,12 +94,21 @@ while(alive){
 
 ---
 
+
 ## 🛰️ Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Atila-Pasha">
   <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://t.me/TheModelLab">
+  <img src="https://cdn.simpleicons.org/telegram" width="48" height="48" />
+</a>
+
+<a href="https://t.me/theatarex">
+  <img src="https://cdn.simpleicons.org/telegram" width="48" height="48" />
 </a>
 
 </p>
