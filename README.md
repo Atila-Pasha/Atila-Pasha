@@ -99,24 +99,28 @@ while(alive){
 
 <p align="center">
 
-<a href="https://github.com/Atila-Pasha">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+<div style="display:inline-block; text-align:center; margin: 0 10px;">
+  <a href="https://github.com/Atila-Pasha">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <br>
+  <small>GitHub</small>
+</div>
 
-<a href="https://t.me/TheModelLab">
-  <img src="https://cdn.simpleicons.org/telegram" width="48" height="48" />
-</a>
+<div style="display:inline-block; text-align:center; margin: 0 10px;">
+  <a href="https://t.me/theatarex">
+    <img src="https://cdn.simpleicons.org/telegram" width="48" height="48" />
+  </a>
+  <br>
+  <small>Personal</small>
+</div>
 
-<a href="https://t.me/theatarex">
-  <img src="https://cdn.simpleicons.org/telegram" width="48" height="48" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Atila-Pasha&color=blueviolet&style=flat-square"/>
+<div style="display:inline-block; text-align:center; margin: 0 10px;">
+  <a href="https://t.me/TheModelLab">
+    <img src="https://cdn.simpleicons.org/telegram" width="48" height="48" />
+  </a>
+  <br>
+  <small>Channel</small>
+</div>
 
 </p>
