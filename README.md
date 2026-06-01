@@ -45,9 +45,7 @@ and couldn't stop myself from building it.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atila-Pasha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atila-Pasha&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atila-Pasha&theme=tokyonight"/>
 
 </p>
 
