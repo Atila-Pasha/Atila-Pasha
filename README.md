@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ata+%F0%9F%91%8B;ML+%26+Backend+Developer;Python+Enthusiast;Deep+Learning+Learner" />
 
+---
+
 </p>
 
 <p align="center">
@@ -23,7 +25,8 @@ class Ata:
         self.focus = [
             "Deep Learning",
             "Neural Networks",
-            "AI Systems"
+            "AI Systems",
+            "APIs"
         ]
 
         self.frameworks = [
@@ -36,6 +39,7 @@ class Ata:
             "Backend",
             "Automation",
             "Data",
+            "Telegram Bots",
             "Open Source"
         ]
 
@@ -48,9 +52,9 @@ class Ata:
 # 🧠 About Me
 
 
-- 📊 Statistics Student
-
 - 🐍 Python Lover
+
+- 📊 Statistics Student
 
 - ⚡ Building scalable APIs with FastAPI
 
@@ -66,7 +70,7 @@ class Ata:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,sqlite,git,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,sqlite,git,linux,vscode,telegram"/>
 
 </p>
 
