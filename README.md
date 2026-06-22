@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ata+%F0%9F%91%8B;ML+%26+Backend+Developer;Python+Enthusiast;Deep+Learning+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ata+%F0%9F%91%8B;ML+%26+Backend+Developer;Python+Enthusiast;Deep+Learning+Learner" />
 
 </p>
 
@@ -13,53 +13,35 @@
 
 ---
 
-# 👨🏻‍💻 class Ata
-
-
 ```python
 class Ata:
 
     def __init__(self):
 
         self.role = "ML & Backend Developer"
-
         self.language = "Python"
-
         self.focus = [
             "Deep Learning",
             "Neural Networks",
             "AI Systems"
         ]
 
-
         self.frameworks = [
             "FastAPI",
             "Flet"
         ]
 
-
         self.interests = [
-
             "ML",
-
             "Backend",
-
             "Automation",
-
             "Data",
-
             "Open Source"
-
         ]
 
-
     def life_philosophy(self):
-
         return "Building projects because I genuinely love creating things."
 ```
-
-
-
 
 ---
 
@@ -78,23 +60,15 @@ class Ata:
 
 - 🤖 Interested in AI Systems
 
-- 🌱 Open Source Enthusiast
-
-
-
-
 ---
 
 # ⚒️ Tech Stack
-
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,sqlite,git,linux,vscode"/>
 
 </p>
-
-
 
 ---
 
@@ -110,13 +84,9 @@ class Ata:
 </p>
 
 
-
-
 ---
 
-# 👾 Contribution Pac-Man
-
-
+# 🐍
 
 <p align="center">
 
@@ -124,15 +94,11 @@ class Ata:
 
 </p>
 
-
-
-
 ---
 
 
 
 # 📊 GitHub Stats
-
 
 
 <p align="center">
@@ -153,9 +119,7 @@ class Ata:
 ---
 
 
-
 # ⭐ Featured Projects
-
 
 
 | Project | Description |
@@ -168,73 +132,13 @@ class Ata:
 
 ---
 
-
-
-# 🎯 Current Focus
-
-
-
-```text
-
-🟢 Classical Machine Learning
-
-🟢 Statistics
-
-🟢 FastAPI
-
-🟡 Deep Learning
-
-⚪ LLM Engineering
-
-⚪ MLOps
-
-```
-
-
-
-
----
-
-
-
-# ⏱ Weekly Coding Stats
-
-
-
-<!--START_SECTION:waka-->
-
-```text
-
-Python            12 hrs 34 mins   ██████████████░░ 65%
-
-FastAPI           4 hrs 10 mins    █████░░░░░░░░░░ 22%
-
-Jupyter Notebook  1 hr 15 mins     ██░░░░░░░░░░░░░ 6%
-
-Markdown          45 mins          ░░░░░░░░░░░░░░░ 2%
-
-Other             30 mins          ░░░░░░░░░░░░░░░ 1%
-
-```
-
-<!--END_SECTION:waka-->
-
-
-
-
----
-
-
-
-# 💜 Quote
+# Quote
 
 
 
 > *Building projects because I genuinely love creating things.*
 
-> — Ata
-
-
+> — AtA
 
 
 ---
@@ -244,7 +148,6 @@ Other             30 mins          ░░░░░░░░░░░░░░░
 
 ### Thanks for visiting! 😊
 
-Let's build something **amazing** together.
-
+Let's build something **Amazing** together.
 
 </p>
