@@ -1,4 +1,7 @@
-# Hey, I'm Ata 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+AtilA+%F0%9F%91%8B;But+You+Can+Call+Me+AtA+%F0%9F%90%8D;" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=ML+%26+Backend+Developer;Python+Enthusiast+%F0%9F%90%8D;Deep+Learning+Learner;FastAPI+Builder" />
