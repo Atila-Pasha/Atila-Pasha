@@ -3,7 +3,7 @@
 ```python
 class Ata:
     def __init__(self):
-        self.role = "Machine Learning Developer"
+        self.role = "ML and Backend Developer"
         self.language = "Python"
         self.learning = ["Deep Learning", "Neural Networks", "AI Systems"]
         self.frameworks = ["FastAPI", "Flet"]
@@ -22,13 +22,6 @@ class Ata:
 - Building APIs with FastAPI
 - Creating desktop/mobile apps with Flet
 - Statistics student with strong interest in AI
-
-
-I don't build projects just to fill a resume.
-
-Most of the things here exist because I was curious about something  
-and couldn't stop myself from building it.
-
 ---
 
 ## ⚒️ Tech Stack
@@ -58,67 +51,5 @@ and couldn't stop myself from building it.
 <img src="https://streak-stats.demolab.com?user=Atila-Pasha&theme=tokyonight&hide_border=true" />
 
 </p>
-
 ---
 
-
-## 🚀 Current Focus
-
-- Deep Learning
-- Computer Vision
-- Model Deployment
-- Building useful AI tools
-- Writing cleaner Python code every day
-
----
-
-## ☕ Philosophy
-
-> "Code should feel alive.  
-> Not just functional."
-
----
-
-## 🌌 Fun Fact
-
-```bash
-while(alive){
-    eat();
-    code();
-    learn();
-    repeat();
-}
-```
-
----
-
-
-## 🛰️ Connect With Me
-
-<p align="center">
-
-<div style="display:inline-block; text-align:center; margin: 0 10px;">
-  <a href="https://github.com/Atila-Pasha">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <br>
-  <small>GitHub</small>
-</div>
-
-<div style="display:inline-block; text-align:center; margin: 0 10px;">
-  <a href="https://t.me/theatarex">
-    <img src="https://cdn.simpleicons.org/telegram" width="48" height="48" />
-  </a>
-  <br>
-  <small>Personal</small>
-</div>
-
-<div style="display:inline-block; text-align:center; margin: 0 10px;">
-  <a href="https://t.me/TheModelLab">
-    <img src="https://cdn.simpleicons.org/telegram" width="48" height="48" />
-  </a>
-  <br>
-  <small>Channel</small>
-</div>
-
-</p>
