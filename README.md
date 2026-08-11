@@ -116,10 +116,6 @@ class Ata:
 
 <img width="32%" src="https://streak-stats.demolab.com?user=Atila-Pasha&theme=tokyonight&hide_border=true"/>
 
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atila-Pasha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
 </p>
 
 
