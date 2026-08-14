@@ -55,7 +55,7 @@ class Ata:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flet,pytorch,sqlite,git,linux,vscode,telegram"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flutter,pytorch,sqlite,git,linux,vscode,telegram"/>
 
 </p>
 
