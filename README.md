@@ -92,7 +92,7 @@ class Ata:
 
 <p align="center">
 
-<img width="50%" src="https://streak-stats.demolab.com?user=Atila-Pasha&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=Atila-Pasha&theme=tokyonight&hide_border=true"/>
 
 </p>
 
