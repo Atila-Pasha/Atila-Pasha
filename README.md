@@ -25,7 +25,7 @@ class Ata:
         self.language = "Python"
         self.focus = [
             "Deep Learning",
-            "Neural Networks",
+            "Machine Learning",
             "AI Systems",
             "APIs"
         ]
@@ -38,9 +38,9 @@ class Ata:
         self.interests = [
             "ML",
             "Backend",
-            "Automation",
             "Data",
             "Telegram Bots",
+            "Cross Platform apps",
             "Open Source"
         ]
 
@@ -50,28 +50,12 @@ class Ata:
 
 ---
 
-# 🧠 About Me
-
-
-- 🐍 Python Lover
-
-- 📊 Statistics Student
-
-- ⚡ Building scalable APIs with FastAPI
-
-- 🧠 Exploring Deep Learning & Neural Networks
-
-- 📱 Flet Desktop/Mobile Developer
-
-- 🤖 Interested in AI Systems
-
----
 
 # ⚒️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,sqlite,git,linux,vscode,telegram"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flet,pytorch,sqlite,git,linux,vscode,telegram"/>
 
 </p>
 
@@ -108,26 +92,9 @@ class Ata:
 
 <p align="center">
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atila-Pasha&theme=tokyonight"/>
-
-
-<img width="32%" src="https://streak-stats.demolab.com?user=Atila-Pasha&theme=tokyonight&hide_border=true"/>
+<img width="50%" src="https://streak-stats.demolab.com?user=Atila-Pasha&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-
-
----
-
-
-# ⭐ Featured Projects
-
-
-| Project | Description |
-|---------|-------------|
-| 🧠 Deep Learning Models | Neural Networks & PyTorch Experiments |
-| ⚡ FastAPI Backend | REST APIs with JWT & PostgreSQL |
-| 📱 Flet Apps | Cross-platform Desktop & Mobile Apps |
 
 
 
@@ -147,7 +114,7 @@ class Ata:
 
 <p align="center">
 
-### Thanks for visiting! 😊
+### Thanks for visiting!
 
 Let's build something **Amazing** together.
 
